@@ -11,3 +11,5 @@
     forge create --rpc-url https://eth-sepolia.g.alchemy.com/v2/L8b_wM9C0XY0rMDwmGshrCG8W4e2SJLk --private-key xxx src/CTF7.sol:CTF7
 
 **deployed to:**
+
+    0x5c41a109FC15f025f8e675548150894Dc99EB71B
